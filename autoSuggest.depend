@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1499524267 source:e:\c++\autosuggest\main.c
+	<stdio.h>
+	<stdlib.h>
+	"trieHeader.h"
+
+1499520641 e:\c++\autosuggest\trieheader.h
+	<stdbool.h>
+
+1499524670 source:e:\c++\autosuggest\trieheader.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	"trieHeader.h"
+
